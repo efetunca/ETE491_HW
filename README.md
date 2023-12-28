@@ -1,1 +1,1 @@
-# ETE491_HW
+# Eartquake Detector - Hardware Side
